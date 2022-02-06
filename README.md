@@ -15,7 +15,7 @@ But make sure you don't share the spreadsheet with your `KEYS` in it. (**VERY IM
 - [ ⚠️ Word Of Caution ](#word-of-caution)
 - [ 😱 Is this safe? ](#safe)
 - [ ❓ Why I built this ](#why)
-- [ 🌝 Plugging my other similar side project, Coingaze ](#coingaze)
+- [ 🌝 Plug - My Other Similar Side Project, Coingaze ](#coingaze)
 
 
 <a name="instruction"></a>
@@ -76,7 +76,7 @@ And this is all the code
 <a name="why"></a>
 ### ❓ Why I built this
 
-WazirX doesn't have a dashboard to show coin allocation yet and I wanted to visually see in which coin I'm investing in the most (It's MATIC AND ETH btw 😛) 
+WazirX doesn't have a dashboard to show coin allocation yet and I wanted to visually see in which coin I'm investing in the most (It's MATIC AND ETH btw 😛) with percentages.
 So I decided to use Google Sheet and build it myself
 
 #### Why Google Sheet?
@@ -92,7 +92,7 @@ Over 500+ people are using it and there are currently over 700+ active alerts.
 
 ![image](https://user-images.githubusercontent.com/36589645/152684336-feacd857-6c02-49f6-9166-915fee7f3a7b.png)
 
-It also has Chrome Extension so you can create alerts right from the WazirX Website 🚀
+It also has [Chrome Extension](https://chrome.google.com/webstore/detail/coingaze-set-crypto-alert/jgholmfpklkgkcokfdpciigjepiehbkp) so you can create alerts right from the WazirX Website 🚀
 
 ![extension-flow-coingaze](https://user-images.githubusercontent.com/36589645/152684391-a00df053-85f0-40eb-94c3-3a0bb0939e69.gif)
 
