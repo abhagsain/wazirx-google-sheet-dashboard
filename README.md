@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/36589645/152683036-1503b27b-c9e0-419a-ae1b-5721c9cbe2e7.png)
 
-All the code is in the Google Sheet itself and also in this repository and if you use the SpreadSheet you own it so there are no privacy concerns.
+### All the code is in the Google Sheet itself and also in this repository and if you use the SpreadSheet you own it so there are no privacy concerns.
 But make sure you don't share the spreadsheet with your `KEYS` in it. (**VERY IMPORTANT**)
 
 
